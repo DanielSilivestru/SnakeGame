@@ -1,0 +1,16 @@
+body
+{
+	background:rgb(242,242,242);
+	text-align: center;
+	font-family:'Press Start 2P', cursive;
+	margin:0;
+}
+#myCanvas{
+	display: block;
+	margin: 2% auto;
+	box-shadow: 1px 3px 36px 5px rgba(0,0,0,0.75);
+	border: 5px solid green;
+}
+#score{
+font-size: 2em;
+}
